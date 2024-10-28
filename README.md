@@ -2,7 +2,6 @@
 Jogo RPG Java - Programação orientada a objetos
 
 Integrantes:
-Caio Lima Pires de Albuquerque
 Felipe Czymoch Ibanez
 Fernando Herstler Albenaz
 
